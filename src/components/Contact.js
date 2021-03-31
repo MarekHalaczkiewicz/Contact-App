@@ -1,5 +1,5 @@
 import React from "react";
-import "./components/Contact.css";
+import "./Contact.css";
 
 const name = "Marek";
 const avatar =
